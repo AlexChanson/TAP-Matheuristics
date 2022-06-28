@@ -1,0 +1,3 @@
+[submodule "TAP-TSP-Heurisitc"]
+	path = TAP-TSP-Heurisitc
+	url = https://github.com/AlexChanson/TAP-TSP-Heurisitc
