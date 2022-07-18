@@ -1,3 +1,6 @@
 [submodule "TAP-TSP-Heurisitc"]
 	path = TAP-TSP-Heurisitc
 	url = https://github.com/AlexChanson/TAP-TSP-Heurisitc
+[submodule "Cplex-TAP"]
+	path = Cplex-TAP
+	url = https://github.com/Blobfish-LIFAT/Cplex-TAP
